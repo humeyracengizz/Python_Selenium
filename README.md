@@ -11,3 +11,18 @@ Mantıksal Veri Tipleri
 
 Karakter Dizisi Veri Tipleri
 - String (str): Metinleri ifade eder. Örneğin: "Merhaba Dünya", "Python Selenium Kampı"
+
+$Kodlama.io sitesinde değişken olarak kullanıldığını düşündüğünüz verileri$
+string : Kurs isimleri ve açıklamaları
+integer :Yorum sayısı, kursların tamamlanma oranı.
+
+$Kodlama.io sitesinde şart blokları kullanıldığını düşündüğünüz kısımlar$
+tamamlanmaOrani = 27
+
+if tamamlanmaOrani < 50:
+    print("Kurs tamamlanmadi")
+elif tamamlanmaOrani == 50:
+    print("Kursun yarisi tamamlandi")
+else
+    print("Kursu tamamladiniz")
+
