@@ -1,6 +1,6 @@
 # Python_Selenium
 
-#Veri Tipleri#
+# Veri Tipleri #
 
 Sayısal Veri Tipleri
 - Tam sayılar (int): Sayıları tam sayı olarak ifade eder. Örneğin: 1, 2, 3, 1000, -500
@@ -12,17 +12,16 @@ Mantıksal Veri Tipleri
 Karakter Dizisi Veri Tipleri
 - String (str): Metinleri ifade eder. Örneğin: "Merhaba Dünya", "Python Selenium Kampı"
 
-#Kodlama.io sitesinde değişken olarak kullanıldığını düşündüğünüz verileri#
-string : Kurs isimleri ve açıklamaları
-integer :Yorum sayısı, kursların tamamlanma oranı.
+# Kodlama.io sitesinde değişken olarak kullanıldığını düşündüğünüz veriler #
+string : Kurs isimleri ve açıklamaları  
+integer :Yorum sayısı, kursların tamamlanma oranı.  
 
-#Kodlama.io sitesinde şart blokları kullanıldığını düşündüğünüz kısımlar#
-tamamlanmaOrani = 27
+# Kodlama.io sitesinde şart blokları kullanıldığını düşündüğünüz kısımlar #
+tamamlanmaOrani = 27  
 
-if tamamlanmaOrani < 50:
-    print("Kurs tamamlanmadi")
-elif tamamlanmaOrani == 50:
-    print("Kursun yarisi tamamlandi")
-else
-    print("Kursu tamamladiniz")
+if tamamlanmaOrani < 50:  
+        print("Kurs tamamlanmadi")                                                                  elif tamamlanmaOrani == 50:  
+    print("Kursun yarisi tamamlandi")  
+else  
+     print("Kursu tamamladiniz")
 
