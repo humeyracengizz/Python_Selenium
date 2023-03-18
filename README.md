@@ -20,7 +20,8 @@ integer :Yorum sayısı, kursların tamamlanma oranı.
 tamamlanmaOrani = 27  
 
 if tamamlanmaOrani < 50:  
-        print("Kurs tamamlanmadi")                                                                  elif tamamlanmaOrani == 50:  
+        print("Kurs tamamlanmadi")  
+elif tamamlanmaOrani == 50:  
     print("Kursun yarisi tamamlandi")  
 else  
      print("Kursu tamamladiniz")
